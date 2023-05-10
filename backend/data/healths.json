@@ -1,0 +1,12 @@
+[
+    {
+        "name" : "Food Posion",
+        "category" : "Injury",
+        "description" : "Food poisoning, also called foodborne illness, is illness caused by eating contaminated food. Infectious organisms — including bacteria, viruses and parasites — or their toxins are the most common causes of food poisoning."
+    },
+    {
+        "name" : "Blue tongue",
+        "category" : "Disease",
+        "description" : "Bluetongue disease is a noncontagious, insect-borne, viral disease of ruminants, mainly sheep and less frequently cattle, yaks, goats, buffalo, deer, dromedaries, and antelope."
+    }
+]

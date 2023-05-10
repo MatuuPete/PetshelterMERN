@@ -1,0 +1,41 @@
+[
+    {
+        "animal_name" : "Lanz",
+        "animal_breed" : "Shitzu",
+        "animal_type" : "dog",
+        "animal_gender" : "female",
+        "animal_age" : 4,
+        "animal_image" : [{
+            "public_id" : "products/dsvbpny402gelwugv2le",
+            "url" : "https://res.cloudinary.com/bookit/image/upload/v1608062030/products/dsvbpny402gelwugv2le.jpg"
+        }],
+        "date_rescued" : "2022-01-01",
+        "reviews": []
+    },
+    {
+        "animal_name" : "James",
+        "animal_breed" : "Persian",
+        "animal_type" : "cat",
+        "animal_gender" : "male",
+        "animal_age" : 6,
+        "animal_image" : [{
+            "public_id" : "products/dsvbpny402gelwugv2le",
+            "url" : "https://res.cloudinary.com/bookit/image/upload/v1608062030/products/dsvbpny402gelwugv2le.jpg"
+        }],
+        "date_rescued" : "2022-01-01",
+        "reviews": []
+    },
+    {
+        "animal_name" : "Jang",
+        "animal_breed" : "Siamesse",
+        "animal_type" : "cat",
+        "animal_gender" : "male",
+        "animal_age" : 10,
+        "animal_image" : [{
+            "public_id" : "products/dsvbpny402gelwugv2le",
+            "url" : "https://res.cloudinary.com/bookit/image/upload/v1608062030/products/dsvbpny402gelwugv2le.jpg"
+        }],
+        "date_rescued" : "2020-01-01",
+        "reviews": []
+    }
+]
