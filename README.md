@@ -1,2 +1,2 @@
 # PetshelterMERN
- Pet shelter project for lost animals 
+MERN project Pet Shelter for pets that are lost and in need for adoption 
